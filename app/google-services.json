@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991461294131",
+    "project_id": "mylastchatapp-14a4c",
+    "storage_bucket": "mylastchatapp-14a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991461294131:android:42c3f15c078affc3b2e346",
+        "android_client_info": {
+          "package_name": "com.example.mylastchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtR3HqwHV6Q2cWueJarZnHOJ6D1pnM8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
